@@ -1,0 +1,5 @@
+ - Mic / Line in choice (jumper?)
+ - Audio output
+ - USB2.0
+ - IR Receiver
+ - RTC
