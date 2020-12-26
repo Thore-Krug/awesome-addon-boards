@@ -4,3 +4,7 @@ We should maybe have a look at [this documentation](https://epsilonrt.fr/2020/01
 Sorry, it's in french.
 
 Could there be a configuration item so that we're able to send the RTC to other boards via I2C?
+
+Regarding your [comment](https://github.com/Thore-Krug/awesome-addon-boards/pull/1#pullrequestreview-555980992) Thore, let's go with internal temperature compensated crystal, as it's not available in through hole variants.
+
+Is the use of a RTC IC with a External Crystal OK or would a Internal temperature compensated Crystal be prefered ? ( No ICs with a External crystal are available in through hole variants )
